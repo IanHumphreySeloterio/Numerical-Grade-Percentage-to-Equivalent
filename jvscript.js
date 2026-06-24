@@ -22,7 +22,7 @@ buttonOfJudgement.addEventListener("click", function() {
         display.value = "Passing";
     }
     else if ((grade > 3.00 && grade <= 5.00) || (grade >= 0 && grade < 75)) {
-        display.value = "💀💀 Failed";
+        display.value = "💀💀";
     }
     else {
         display.value = "Invalid Grade";
