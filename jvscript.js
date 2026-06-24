@@ -30,7 +30,7 @@ buttonOfJudgement.addEventListener("click", function () {
             display.value = "Passing";
         }
         else {
-            display.value = "💀💀 Failed";
+            display.value = "💀💀";
         }
 
     }
@@ -54,7 +54,7 @@ buttonOfJudgement.addEventListener("click", function () {
             display.value = "Passing";
         }
         else {
-            display.value = "💀💀 Failed";
+            display.value = "💀💀";
         }
 
     }
