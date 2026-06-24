@@ -1,0 +1,65 @@
+#container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    margin-top: 50px;
+}
+    
+body {
+    background-color: #FFF78D;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #283F24;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: #467235;
+    margin-top: 50px;
+}
+
+#numericalGrade {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#inputGrades {
+    padding: 10px;
+    margin-top: 10px;
+    border: 2px solid #467235;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+#buttonOfJudgement {
+    margin-top: 20px;
+    padding: 12px 20px;
+    background-color: #FFBF00;
+    color: #283F24;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#buttonOfJudgement:hover {
+    background-color: #467235;
+    color: white;
+}
+
+#display {
+    margin-top: 20px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    border: 2px solid #467235;
+    border-radius: 8px;
+    font-size: 18px;
+    background-color: white;
+}
+button{
+    cursor: pointer;
+}
